@@ -163,6 +163,8 @@ cpuminer_SOURCES = \
   algo/sha/sha256t-gate.c \
   algo/sha/sha256t-4way.c \
   algo/sha/sha256t.c \
+  algo/sha/sph_radiogatun.c \
+  algo/sha/sph_panama.c \
   algo/shabal/sph_shabal.c \
   algo/shabal/shabal-hash-4way.c \
   algo/shavite/sph_shavite.c \

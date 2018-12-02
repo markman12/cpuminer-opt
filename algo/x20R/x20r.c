@@ -14,15 +14,15 @@
 #include "algo/cubehash/sse2/cubehash_sse2.h"
 #include "algo/shavite/sph_shavite.h"
 #include <sha3/sph_simd.h>
-#include "algo/echo/sph_echo.h"
+#include "algo/sha/echo/sph_echo.h"
 #include "algo/hamsi/sph_hamsi.h"
 #include "algo/fugue/sph_fugue.h"
 #include "algo/shabal/sph_shabal.h"
 #include "algo/whirlpool/sph_whirlpool.h"
 #include <sha3/sph_sha2.h>
 #include <sha3/sph_haval.h>
-#include <sha3/sph_radiogatun.h>
-#include <sha3/sph_panama.h>
+#include "algo/sha/sph_radiogatun.h"
+#include "algo/sha/sph_panama.h"
 #include <sha3/gost_streebog.h>
 
 enum Algo {

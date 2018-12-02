@@ -8,7 +8,7 @@
 	"user" : "Xexxxxxx",
 	"pass" : "cpuminer",
 
-	"algo" : "x11",
+	"algo" : "x20r",
 	"threads" : 0,
 	"cpu-priority" : 0,
 	"cpu-affinity" : -1,

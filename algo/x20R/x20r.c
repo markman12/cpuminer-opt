@@ -19,7 +19,7 @@
 #include "algo/fugue/sph_fugue.h"
 #include "algo/shabal/sph_shabal.h"
 #include "algo/whirlpool/sph_whirlpool.h"
-#include <sha3/sph_sha2.h>
+#include "algo/sha/sph_sha2.h"
 #include <sha3/sph_haval.h>
 #include "algo/sha/sph_radiogatun.h"
 #include "algo/sha/sph_panama.h"

@@ -4,8 +4,8 @@
 
 	"api-bind" : "127.0.0.1:4048",
 
-	"url" : "stratum+tcp://mine.xpool.ca:1131",
-	"user" : "XeVrkPrWB7pDbdFLfKhF1Z3xpqhsx6wkH3",
+	"url" : "stratum+tcp://127.0.0.1:1101",
+	"user" : "Xexxxxxx",
 	"pass" : "cpuminer",
 
 	"algo" : "x11",

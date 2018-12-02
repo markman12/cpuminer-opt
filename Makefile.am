@@ -250,6 +250,7 @@ cpuminer_SOURCES = \
   algo/x17/x16r.c \
   algo/x17/x16r-4way.c \
   algo/x17/hmq1725.c \
+  algo/x20R/x20r.c \
   algo/yescrypt/yescrypt.c \
   algo/yescrypt/sha256_Y.c \
   algo/yescrypt/yescrypt-best.c

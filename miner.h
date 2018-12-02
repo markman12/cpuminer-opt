@@ -781,6 +781,7 @@ Options:\n\
                           x16r          Ravencoin (RVN)\n\
                           x16s          Pigeoncoin (PGN)\n\
                           x17\n\
+			  x20R		ASTRAL
                           xevan         Bitsend (BSD)\n\
                           yescrypt      Globlboost-Y (BSTY)\n\
                           yescryptr8    BitZeny (ZNY)\n\
